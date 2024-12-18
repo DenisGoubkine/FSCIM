@@ -10,7 +10,7 @@ This project integrates financial and supply chain data from Bloomberg, calculat
 5. Trigger the model run: curl -X POST http://localhost:5000/run_model
 
 ## Output
-The application will produce an Excel file with vulnerability scores for each security and scenario. Further financial analysis can be performed in Excel.\\
+The application will produce an Excel file with vulnerability scores for each security and scenario. Further financial analysis can be performed in Excel.
 
 ## Requirements
 blpapi
